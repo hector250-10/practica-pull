@@ -1,0 +1,4 @@
+Notas iniciales del proyecto.
+
+- Este archivo fue creado al inicio.
+- Aquí iremos agregando apuntes durante la práctica.
