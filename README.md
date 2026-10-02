@@ -11,3 +11,5 @@ Repositorio de práctica para aprender `git pull`.
 
 Para que varios estudiantes practiquen cómo traer cambios
 que otros hicieron en el repositorio remoto.
+
+### Ahora he agregado un cambio a README.md
