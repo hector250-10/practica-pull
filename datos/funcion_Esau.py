@@ -1,4 +1,4 @@
-# Escribe una funcion llamada maximo_comun_divisor que reciba
+gi# Escribe una funcion llamada maximo_comun_divisor que reciba
 # dos numeros enteros positivos y devuelva su MCD
 # usando el algoritmo de Euclides.
 # Incluye docstring y comentarios en espanol.
@@ -35,7 +35,7 @@ def maximo_comun_divisor(a, b):
 #añade un pequeño bloque de prueba para verificar que la funcion funciona correctamente
 if __name__ == "__main__":
     # Prueba de la función maximo_comun_divisor
-    num1 = 4
+    num1 = 48
     num2 = 18
     resultado = maximo_comun_divisor(num1, num2)
     print(f"El MCD de {num1} y {num2} es: {resultado}")  # Debería imprimir 
