@@ -1,4 +1,4 @@
-gi# Escribe una funcion llamada maximo_comun_divisor que reciba
+# Escribe una funcion llamada maximo_comun_divisor que reciba
 # dos numeros enteros positivos y devuelva su MCD
 # usando el algoritmo de Euclides.
 # Incluye docstring y comentarios en espanol.
