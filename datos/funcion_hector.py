@@ -1,3 +1,6 @@
+# primer cambio de Héctor 
+
+
 # Escribe una funcion llamada promedio que reciba una lista
 # de numeros y devuelva su media aritmetica.
 # Si la lista esta vacia, debe devolver None.
